@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1395487749 source:/home/andrej/prj/opencv_pd/main.cpp
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/ocl/ocl.hpp"
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	<stdexcept>
+
